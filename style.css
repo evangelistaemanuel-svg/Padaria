@@ -12,8 +12,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #FFFFFF;             /* marrom escuro (texto) */
-    background-color: #000000;  /* creme (fundo) */
+    color: #000000;             /* marrom escuro (texto) */
+    background-color: #f3e17a;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
@@ -55,7 +55,7 @@ blockquote {
     border-left: 4px solid #5004ac;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #f3e17a;
+    background-color: #5004ac;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
